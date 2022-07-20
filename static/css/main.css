@@ -1,0 +1,20 @@
+.silly-bg-1 { 
+    background-image: url(../imgs/pixar.jpeg);
+    background-repeat: repeat; 
+}
+
+.silly-bg-2 { 
+    background-image: url(../imgs/hand-drawn-race-cars-scandinavian-style-vector-set-with-cute-cars-fabric-design-wallpaper_653667-8.webp);
+    background-size: 30%;
+    background-repeat: repeat;  
+}
+
+.silly-bg-3 { 
+    background-image: url(../imgs/FtrBoyBedS_Remake_0_0.png);
+    background-repeat: repeat; 
+}
+
+.silly-bg-4 { 
+    background-image: url(../imgs/istockphoto-1345201230-612x612.jpeg);
+    background-repeat: repeat; 
+}
