@@ -1,3 +1,11 @@
+*{ 
+    cursor: url(../imgs/noun-race-987049.svg), auto;
+}
+
+.vroomhover:hover{ 
+    cursor: url(../imgs/wheel.svg), auto !important;
+}
+
 .silly-bg-1 { 
     background-image: url(../imgs/pixar.jpeg);
     background-repeat: repeat; 
